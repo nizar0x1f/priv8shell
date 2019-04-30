@@ -10,7 +10,7 @@
 - [x] **Cgi telnet with new design**
 - [x] **Back connect**
 - [x] **Mass deface**
-- [x] **Bypass disabaled functions**
+- [x] **Bypass disabled functions**
 - [x] **Wordpress mass title Changer**
 - [x] **Wordpress mass user Changer**
 - [x] **Cpanel grabber**
